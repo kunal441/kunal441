@@ -34,13 +34,16 @@ PROJECTS
  - Discovered location with least and most competition, best rated cuisines, services to keep and compared types of restaurants to get better insight for our restaurant.
  
  
-2. Data Science Regression Project: Predicting Home Prices in Bangalore 
-- Used different features to predict the price of houses for different areas in Bangalore
-- Used Python libraries for data cleaning, visualization, feature engineering, outlier removal, one hot encoding and building our model.
-- This model will give us 90% plus accuracy with Random Forest.
+2. Data Science Regression Project: Predicting ratings for restaurants in Bangalore 
+- Here we are using different features to predict the rating of restaurants. 
+- We have compared Linear Regression, Random Forest Regression and Decision Tree Regression; found that Random Forest gives us the highest accuracy, hence we have performed hyper parameter tuning for Random forest.
+- This model will give us 90% plus accuracy with Random Forest, RMSE is 0.5 and MAE is 0.4.
+
 
 3. Excel and Tableau 
-- Used Microsoft Excel and Tableau to analyze data, create visualizations, and publish an interactive dashboard online.
+- Used the bookshop data, created joins and prepared mapping using Tableau. 
+- Created calculated fields, used filters and colors for higher precision and to make results not only readable but also scannable. 
+- Found that hardcover editions are always in high demand, also compared marketing spends, checkouts and rating of books. 
 
 
 
