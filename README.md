@@ -49,18 +49,18 @@ PROJECTS
 
 WORK EXPERIENCE
 
-- Customer Service Executive for EA - Ienergizer             (December 2019 - March 2020) (August 2020 -  Till now)
-Working as subject and hacked accounts expert for EA games, managing inbound and outbound calls
-Train and develop new team members on operational procedures and mentoring new hired advisors
+1. Customer Service Executive for EA - Ienergizer             (December 2019 - March 2020) (August 2020 -  Till now)
+- Working as subject and hacked accounts expert for EA games, managing inbound and outbound calls
+- Train and develop new team members on operational procedures and mentoring new hired advisors
 
    
-- WordPress and Magento Trainee - AROHHA                                    (Jan - March 2019)
-Building  interface for a website dealing with property listings using WordPress and Magento
-Per page deployment was reduced to 1.5 days, listing deployment was brought down to a few hours
+2. WordPress and Magento Trainee - AROHHA                                    (Jan - March 2019)
+- Building  interface for a website dealing with property listings using WordPress and Magento
+- Per page deployment was reduced to 1.5 days, listing deployment was brought down to a few hours
 
    
-- WordPress and Magento Intern - AROHHA                                      (Oct - Nov 2018)
-Worked on promotional websites for schools, colleges and firms
-Reduced the deployment duration to 2 days for any website
+3. WordPress and Magento Intern - AROHHA                                      (Oct - Nov 2018)
+- Worked on promotional websites for schools, colleges and firms
+- Reduced the deployment duration to 2 days for any website
 
 
