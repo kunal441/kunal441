@@ -1,7 +1,7 @@
 # About-Me
-                                         Kunal Chakravarty
+                                               Kunal Chakravarty
                                          
-                    kunal.chakravarty11@gmail.com   |   +917985167441  |   Noida, India
+                               kunal.chakravarty11@gmail.com   |   Noida, India
          
 
 EDUCATION
